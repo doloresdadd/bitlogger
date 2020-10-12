@@ -1,13 +1,13 @@
-## Simple Electron React Boilerplate
+## Buglogger
 
-This is a simple boilerplate to get up and running with Electron and React. It is a customized version of [Alex Devero's](https://github.com/alexdevero/electron-react-webpack-boilerplate) repo and is used in my Electron course
+This is an electron app for teams to log bugs to a mongo atlas database
 
 ### Install
 
 #### Clone this repo
 
 ```
-git clone https://github.com/bradtraversy/simple-electron-react.git
+git clone https://github.com/doloresdadd/bitlogger.git
 ```
 
 #### Install dependencies
